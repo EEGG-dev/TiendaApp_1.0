@@ -1,0 +1,15 @@
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\bin\Debug\net6.0\TiendaRopaApp.exe
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\bin\Debug\net6.0\TiendaRopaApp.deps.json
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\bin\Debug\net6.0\TiendaRopaApp.runtimeconfig.json
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\bin\Debug\net6.0\TiendaRopaApp.dll
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\bin\Debug\net6.0\TiendaRopaApp.pdb
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\obj\Debug\net6.0\TiendaRopaApp.csproj.AssemblyReference.cache
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\obj\Debug\net6.0\TiendaRopaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\obj\Debug\net6.0\TiendaRopaApp.AssemblyInfoInputs.cache
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\obj\Debug\net6.0\TiendaRopaApp.AssemblyInfo.cs
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\obj\Debug\net6.0\TiendaRopaApp.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\obj\Debug\net6.0\TiendaRopaApp.dll
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\obj\Debug\net6.0\refint\TiendaRopaApp.dll
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\obj\Debug\net6.0\TiendaRopaApp.pdb
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\obj\Debug\net6.0\TiendaRopaApp.genruntimeconfig.cache
+C:\Users\Natalia Garcia\source\repos\TiendaRopaApp\TiendaRopaApp\obj\Debug\net6.0\ref\TiendaRopaApp.dll
